@@ -1,0 +1,2 @@
+# vclLogging
+Log App Lifecycle
